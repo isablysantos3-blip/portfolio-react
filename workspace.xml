@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ac84611-eba5-4ace-8976-2d974a552caf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2vUXrgcnrrFDPwORNjcNEsnEroE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Atividade 1 - S9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Atividade 2 - S9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculadora.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exemplo - IMC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exemplo - S10 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exemplo - S10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exemplo - S9 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exemplo 1 e 2 - S10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exemplo 2 - S10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercicio 4 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercício - Revisão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercício 1 - S10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercício 1 - S9 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercício 10 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercício 2 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercício 3 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercício 5 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercício 6 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercício 7 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercício 8 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercício 9 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercícios - Revisão - Lógica 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercícios - Revisão - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercícios - Revisão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lista de tarefas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lógica - Revisão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Menu de lanchonete.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Operações.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Processos - Exemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Retomada - Lógica - 04.08.2025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Retomada - Lógica2 - 04.08.2025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Retomada - Lógica3 - 04.08.2025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Retomada - Lógica4 - 04.08.2025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Retomada - Lógica5 - 04.08.2025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Revisão - Lógica - For.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Revisão - Lógica - Parte 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Revisão - Lógica - Parte 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Revisão - Lógica - Parte 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Revisão - Lógica - Parte 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Revisão - Lógica 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Revisão - Lógica 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Revisão - Lógica 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Revisão - Lógica 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Revisão - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Roteiro do exercício 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S10 - Aula 2 - Exercício 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S10 - Aula 2 - Exercício 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S10 - Aula 2 - Lógica - Exercício 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S10 - Aula 2 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S10 - Aula 2 - Processos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S10 - Aula 3 - Lógica - Exercício 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S10 - Aula 3 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S10 - Aula 3 - Processos - Exercício 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S10 - Aula 3 - Processos - Exercício 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S10 - Aula 3 - Processos - Exercício 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S10 - Aula 4 - Lógica - Exercício 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S17 - Aula 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S18 - Aula 1 - Registro - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S18 - Aula 1 - Registro - Processos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S19 - Aula 1 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S20 - Lógica - Aula 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S21 - Aula 1 - Exemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S21 - Aula 1 - Registro - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S21 - Aula 2 - Registro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S22 - Aula 1 - Registro - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S23 - Aula 1 - Registro - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S23 - Aula 2 - Registro - Processos 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S23 - Aula 2 - Registro - Processos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S25 - Aula 1 - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S26 - Aula 1 - Registro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S28 - Aula 1 - Registro - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S29 - Aula 1 - Registro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S30 - Aula 1 - Registro - Lógica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S4 - Aula 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S5 - Aula 1 - Exemplo 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S5 - Aula 1 - Exemplo 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S5 - Aula 1 - Exemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S8 - Exercício 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S8 - Exercício 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S8 - Exercício 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S8 - Exercício 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S8 - Exercícios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S9 - Aula 1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.Exemplo - S9 - Lógica">
+    <configuration name="Exemplo - S10 - Lógica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exemplo - S10 - Lógica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exemplo - S10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exemplo - S10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exemplo - S9 - Lógica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exemplo - S9 - Lógica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercício 8 - Lógica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercício 8 - Lógica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="S10 - Aula 2 - Lógica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S10 - Aula 2 - Lógica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.S10 - Aula 2 - Lógica" />
+        <item itemvalue="Python.Exemplo - S10 - Lógica" />
+        <item itemvalue="Python.Exemplo - S9 - Lógica" />
+        <item itemvalue="Python.Exemplo - S10" />
+        <item itemvalue="Python.Exercício 8 - Lógica" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ac84611-eba5-4ace-8976-2d974a552caf" name="Changes" comment="" />
+      <created>1744200827998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744200827998</updated>
+    </task>
+    <servers />
+  </component>
+</project>
